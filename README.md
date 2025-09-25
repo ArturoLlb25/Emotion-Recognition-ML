@@ -4,10 +4,9 @@ Este proyecto entrena y prueba distintos modelos de Machine Learning para clasif
 
 ## Uso en Google Colab
 
-1. Abre el siguiente botón en Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/mi-proyecto-ml/blob/main/ImagesClassifications_LlanasArturo.ipynb)
-
+1. Descarga el archivo de clasificación de imágenes para probar el modelo, sera necesario que cambies la ruta donde carga el modelo por la ruta en "models/recognition_modelconv2d.h5" o "models/recognition_model.keras"
 2. Ejecuta las celdas del notebook.
-3. Sube una imagen o usa las de prueba para ver la clasificación.
+3. Sube imagenes de rostros para probar la clasificación.
+4. Opcionalmente puedes usar mi código donde entreno los diferentes modelos y tratar de llegar a mejores resultados.
+
 
